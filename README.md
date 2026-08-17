@@ -8,9 +8,13 @@ Electronics & Communication Engineering student interested in software developme
 - Data Structures & Algorithms
 - HTML
 - CSS
-- JavaScript
 - SCAPS-1D
 - Git & GitHub
+- Control systems
+- Computer networks
+- Microprocessor & microcontrollers
+- VLSI
+  
 
 ## 🚀 Projects
 
