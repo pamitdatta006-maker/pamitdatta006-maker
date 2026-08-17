@@ -1,4 +1,37 @@
-## Hi there 👋
+# Hi, I'm Pamit Datta 👋
+
+Electronics & Communication Engineering student interested in software development, semiconductor devices, and practical engineering projects.
+
+## 🔧 Skills
+
+- Java
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- SCAPS-1D
+- Git & GitHub
+
+## 🚀 Projects
+
+### Student Task Manager
+A responsive task management web application built using HTML, CSS and JavaScript.
+
+**Live Demo:** [Student Task Manager](https://pamitdatta006-maker.github.io/Student-Task-Manager/)
+
+### Sn–Ge Based Perovskite Tandem Solar Cell
+Numerical analysis and simulation of a Sn–Ge based perovskite tandem solar cell using SCAPS-1D.
+
+## 📚 Currently Learning
+
+- Java & Data Structures
+- Web Development
+- Git & GitHub
+- Semiconductor Device Simulation
+
+---
+
+*Always learning. Always building.*
 
 <!--
 **pamitdatta006-maker/pamitdatta006-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
